@@ -5,8 +5,11 @@ This application simply is streaming a video without any delay using **ESP32 CAM
 
 # Task Info
 > **Course**: IOT
+
 > **Year**: 4th Year
+
 > **Semester**: 1st Semester
+
 > **Date**: 2023
 
 <hr>
