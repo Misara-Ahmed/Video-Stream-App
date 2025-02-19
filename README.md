@@ -1,5 +1,5 @@
 # Video Stream App :movie_camera:
-This application simply is streaming a video without any delay using **ESP32 CAM**, **Flutter (Dart)**, **Arduino C**, **UDP protocol**
+This application simply is streaming a video without any delay using **ESP32 CAM**, **Flutter (Dart)**, **Arduino C/C++** and **UDP Protocol**
 
 <hr>
 
